@@ -1,4 +1,4 @@
 @echo off
-title Role Sync
+title Watchlist
 node bot.js
 pause
